@@ -3,12 +3,14 @@ Direct depthmaps extracted from gameplays or shaders, I was making some 3D artwo
 
 The games are owned by the developer I just played the game and extracted the depthmap. Therefore all credit goes to game or character owners. Sharing for learning purposes only... please reach me and I will take quick action to take it down.
 
-Most of the frames are synched few depthmap frames may go ahead.
-
+Frames are synched from start, later few depth frames reflects ahead frame and sycnh continues.
+- Depth quality: HD/FHD
+- Cutscenes are not part of the extracted depth
+  
 Mickey Mouse Castle of Illusion\
-depth  https://rumble.com/v79axcy-mickey-mouse-castle-of-illusion-depth-map.html \
+depth  https://rumble.com/v79axcy-mickey-mouse-castle-of-illusion-depth-map.html (6 minutes, 1080 frames) \
 game   https://rumble.com/v79axi6-mickey-mouse-castle-of-illusion-gameplay.html \
 
 Resident Evil Darkside Chronicles \
-depth  https://rumble.com/v79c38o-resident-evil-darkside-chronicles-depth.html \
+depth  https://rumble.com/v79c38o-resident-evil-darkside-chronicles-depth.html (51 minutes, 91800 frames) \
 game   https://rumble.com/v79c2tu-resident-evil-darkside-chronicles-chapter-1.html \
