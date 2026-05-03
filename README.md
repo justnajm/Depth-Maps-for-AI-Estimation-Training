@@ -8,3 +8,7 @@ Most of the frames are synched few depthmap frames may go ahead.
 Mickey Mouse Castle of Illusion\
 depth  https://rumble.com/v79axcy-mickey-mouse-castle-of-illusion-depth-map.html \
 game   https://rumble.com/v79axi6-mickey-mouse-castle-of-illusion-gameplay.html \
+
+Resident Evil Darkside Chronicles \
+depth  https://rumble.com/v79c38o-resident-evil-darkside-chronicles-depth.html \
+game   https://rumble.com/v79c2tu-resident-evil-darkside-chronicles-chapter-1.html \
